@@ -1,0 +1,50 @@
+# AI Agent with MCP Server Tools
+
+An AI agent built using Microsoft Foundry VS Code extension that uses Model Context Protocol (MCP) servers to access external data sources and APIs.
+
+## Project Overview
+
+This project demonstrates building an AI agent that can:
+- Access external data sources through MCP servers
+- Retrieve up-to-date information from various APIs
+- Interact with services like GitHub documentation
+
+## Technologies Used
+
+- Microsoft Foundry VS Code Extension
+- Azure AI Foundry
+- GPT-4 Model
+- Model Context Protocol (MCP)
+- Azure Resource Management
+
+## Setup Instructions
+
+### Prerequisites
+- Visual Studio Code
+- Active Azure subscription
+- Microsoft Foundry VS Code extension
+
+### Installation Steps
+(We'll fill this in as we go)
+
+## Agent Configuration
+
+(We'll document our agent settings here)
+
+## Demo & Screenshots
+
+(We'll add screenshots here)
+
+## Cost Management
+
+- Deployment duration: [TBD]
+- Estimated costs: [TBD]
+- Resources deleted after testing: Yes
+
+## Lessons Learned
+
+(We'll add our insights here)
+
+## Author
+
+[Your Name]
