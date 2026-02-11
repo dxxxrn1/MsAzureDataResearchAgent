@@ -41,7 +41,7 @@ This project demonstrates building an AI agent that can:
 - Estimated costs: [TBD]
 - Resources deleted after testing: Yes
 
-## ✅ Successfully Deployed
+## Successfully Deployed
 
 **Status:** Agent is live and functional!
 
@@ -56,7 +56,7 @@ See `AGENT_CONFIG.md` for detailed test results and `screenshots/` folder for vi
 ### Demo Query:
 > "Can you help me find documentation about Azure Container Apps and provide an example of how to create one?"
 
-✅ Agent successfully retrieved documentation and provided comprehensive answer.
+Agent successfully retrieved documentation and provided comprehensive answer.
 
 ## Author
 
