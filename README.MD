@@ -25,20 +25,18 @@ This project demonstrates building an AI agent that can:
 - Microsoft Foundry VS Code extension
 
 ### Installation Steps
-(We'll fill this in as we go)
+
 
 ## Agent Configuration
 
-(We'll document our agent settings here)
 
 ## Demo & Screenshots
 
-(We'll add screenshots here)
 
 ## Cost Management
 
-- Deployment duration: [TBD]
-- Estimated costs: [TBD]
+ [TBD]
+
 - Resources deleted after testing: Yes
 
 ## Successfully Deployed
